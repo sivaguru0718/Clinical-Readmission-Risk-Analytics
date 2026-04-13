@@ -2,14 +2,17 @@
 Bridging Pharmacology Expertise with Data-Driven Healthcare Insights
 
 **About the Author**
+
 As an M.Pharm (Pharmacology) student, I am passionate about leveraging clinical data to improve patient safety and therapeutic outcomes. This project demonstrates my ability to integrate pharmacological domain knowledge with technical skills in Python, SQL, and Power BI to solve real-world healthcare challenges like hospital readmission.
 
 **📌 Project Overview**
+
 Hospital readmission within 30 days is a critical indicator of healthcare quality and patient safety. This project analyzes a dataset of 18,000+ clinical records to identify high-risk patients and provide actionable insights for clinical intervention.
 
 Key Objective: To stratify patients based on clinical severity and pharmacological risk factors to reduce the 74% readmission rate.
 
 **🧪 Clinical & Pharmacological Insights**
+
 Being from a Pharmacology background, I focused on several key clinical drivers:
 
 Polypharmacy Risk: Identified that patients with 3+ chronic diseases and multiple medications have a significantly higher risk of readmission.
@@ -18,6 +21,7 @@ Medication Adherence: Correlated low adherence scores with high severity levels 
 Risk Stratification: Used a Severity Score (1-9) to prioritize patients requiring immediate follow-up.
 
 **🛠️ Tech Stack & Workflow**
+
 Data Preprocessing (Python): * Handled clinical missingness and outliers.
 Feature engineering: Created age groups and comorbidity indices.
 Tools: Pandas, NumPy, Matplotlib.
