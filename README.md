@@ -34,9 +34,13 @@ Developed a Top 10 High-Risk Patient Tracker for real-time decision support.
 **📂 Project Structure**
 
 ├── data/                 # Clinical Dataset (Synthetic 18k records)
+
 ├── notebooks/            # Python EDA & Data Cleaning Scripts
+
 ├── scripts/              # SQL queries for Clinical Analysis
+
 ├── dashboard/            # Power BI (.pbix) Interactive Report
+
 └── README.md             # Project Documentation
 
 **📊 Dashboard Preview**
