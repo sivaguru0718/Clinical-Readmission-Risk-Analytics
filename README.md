@@ -30,3 +30,20 @@ Exploratory Data Analysis (SQL): * Optimized queries to find trends in admission
 Calculated readmission percentages across different demographics.
 Data Visualization (Power BI): * Designed a professional Clinical Dashboard.
 Developed a Top 10 High-Risk Patient Tracker for real-time decision support.
+
+**📂 Project Structure**
+
+├── data/                 # Clinical Dataset (Synthetic 18k records)
+├── notebooks/            # Python EDA & Data Cleaning Scripts
+├── scripts/              # SQL queries for Clinical Analysis
+├── dashboard/            # Power BI (.pbix) Interactive Report
+└── README.md             # Project Documentation
+
+**📊 Dashboard Preview**
+
+Note: The dashboard features a real-time "Priority List" for doctors to focus on the most critical cases during discharge.
+
+**🎯 Conclusion & Impact**
+
+This project isn't just about data; it’s about Patient Safety. By identifying the top 10% of high-risk patients, hospital administrations can allocate resources more effectively, ensuring that vulnerable patients receive the pharmacological follow-up they need to prevent unnecessary readmission.
+
